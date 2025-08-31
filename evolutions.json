@@ -1,0 +1,10 @@
+[
+{"nome": "Vaporeon", "texto": "(use Water Stone)", "link": "https://pokemondb.net/item/water-stone"},
+{"nome": "Jolteon", "texto": "(use Thunder Stone)", "link": "https://pokemondb.net/item/thunder-stone"},
+{"nome": "Flareon", "texto": "(use Fire Stone)", "link": "https://pokemondb.net/item/fire-stone"},
+{"nome": "Espeon", "texto": "(high Friendship, Daytime)", "link": "https://pokemondb.net/glossary#def-friendship"},
+{"nome": "Umbreon", "texto": "(high Friendship, Nighttime)", "link": "https://pokemondb.net/glossary#def-friendship"},
+{"nome": "Leafeon", "texto": "(use Leaf Stone, or level up near a Moss-rock)", "link": "https://pokemondb.net/item/leaf-stone"},
+{"nome": "Glaceon", "texto": "(use Ice Stone, or level up near an Ice-rock)", "link": "https://pokemondb.net/item/ice-stone"},
+{"nome": "Sylveon", "texto": "(after Fairy-type move learned, and either \u2665\u2665 Affection in Gen 6-7 or high friendship in Gen 8+)", "link": ""}
+]
